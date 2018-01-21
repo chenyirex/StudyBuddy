@@ -1,3 +1,5 @@
+**StudyBuddy**
+
 StudyBuddy is an android app that provides a platform for UBC students to form study groups and schedule meet-ups.
 
 Main functionality:
