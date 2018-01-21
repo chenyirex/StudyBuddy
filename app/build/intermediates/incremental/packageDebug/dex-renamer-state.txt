@@ -1,0 +1,7 @@
+#Mon Nov 27 20:13:10 PST 2017
+base.0=C\:\\Users\\REX\\AndroidStudioProjects\\StudyBuddy4 realease\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run_c0537b6e1d017d59a65366184d1d90cdac9aa4fb
+renamed.1=classes2.dex
+renamed.0=classes.dex
+file.1=C\:\\Users\\REX\\AndroidStudioProjects\\StudyBuddy4 realease\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run-bootstrap_a07d1188990f2bcd7cec1f0d0e0e2463cab10a02\\classes.dex
+base.1=C\:\\Users\\REX\\AndroidStudioProjects\\StudyBuddy4 realease\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run-bootstrap_a07d1188990f2bcd7cec1f0d0e0e2463cab10a02
+file.0=C\:\\Users\\REX\\AndroidStudioProjects\\StudyBuddy4 realease\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run_c0537b6e1d017d59a65366184d1d90cdac9aa4fb\\classes.dex

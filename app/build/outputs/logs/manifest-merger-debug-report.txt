@@ -1,0 +1,150 @@
+-- Merging decision tree log ---
+manifest
+ADDED from C:\Users\REX\AndroidStudioProjects\StudyBuddy4 realease\app\src\main\AndroidManifest.xml:2:1-39:12
+	package
+		ADDED from C:\Users\REX\AndroidStudioProjects\StudyBuddy4 realease\app\src\main\AndroidManifest.xml:3:5-46
+		INJECTED from C:\Users\REX\AndroidStudioProjects\StudyBuddy4 realease\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\REX\AndroidStudioProjects\StudyBuddy4 realease\app\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from C:\Users\REX\AndroidStudioProjects\StudyBuddy4 realease\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\REX\AndroidStudioProjects\StudyBuddy4 realease\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from C:\Users\REX\AndroidStudioProjects\StudyBuddy4 realease\app\src\main\AndroidManifest.xml:2:11-69
+	android:versionCode
+		INJECTED from C:\Users\REX\AndroidStudioProjects\StudyBuddy4 realease\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\REX\AndroidStudioProjects\StudyBuddy4 realease\app\src\main\AndroidManifest.xml
+uses-permission#android.permission.INTERNET
+ADDED from C:\Users\REX\AndroidStudioProjects\StudyBuddy4 realease\app\src\main\AndroidManifest.xml:5:5-67
+	android:name
+		ADDED from C:\Users\REX\AndroidStudioProjects\StudyBuddy4 realease\app\src\main\AndroidManifest.xml:5:22-64
+application
+ADDED from C:\Users\REX\AndroidStudioProjects\StudyBuddy4 realease\app\src\main\AndroidManifest.xml:7:5-37:19
+MERGED from [com.android.volley:volley:1.0.0] C:\Users\REX\.android\build-cache\008ec2c15a79f8a619b33aef729211e28baba899\output\AndroidManifest.xml:9:5-20
+MERGED from [com.android.support:design:25.3.1] C:\Users\REX\.android\build-cache\64347bfc019fc08f3ee52fc9fe1ac535c4ae2b9f\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:appcompat-v7:25.3.1] C:\Users\REX\.android\build-cache\b4e6401774938be5507c56e00ead6882ba7f9f1b\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:animated-vector-drawable:25.3.1] C:\Users\REX\.android\build-cache\cd50d087a357490e4c2f29858da7670035fec026\output\AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:support-vector-drawable:25.3.1] C:\Users\REX\.android\build-cache\3d610e8d16b045587e5106ba33f83b046f98ef33\output\AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:transition:25.3.1] C:\Users\REX\.android\build-cache\e9908f25c6442d9c33fcd854048560739fb9c8ed\output\AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:support-v4:25.3.1] C:\Users\REX\.android\build-cache\75797e1eb71ef776d1593fd2f56c6f534d255ac5\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-fragment:25.3.1] C:\Users\REX\.android\build-cache\ee1b8ba5f76d0b784ddbf52f6c54db437930e9df\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-media-compat:25.3.1] C:\Users\REX\.android\build-cache\ff45d754939b3c7814e02f04df6a8f0265605a14\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-core-utils:25.3.1] C:\Users\REX\.android\build-cache\88ae4268d405260268bd7643b4ab3586c308f2cc\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\REX\.android\build-cache\044d69a3ec017985e285c32c830f8bb5e7f254e6\output\AndroidManifest.xml:9:5-20
+MERGED from [com.android.support:support-core-ui:25.3.1] C:\Users\REX\.android\build-cache\98c56ab2d8f2663165e902052cbfd90d14050ae2\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-compat:25.3.1] C:\Users\REX\.android\build-cache\a00a634949e9bb38151c668154fae373b123977b\output\AndroidManifest.xml:29:5-20
+	android:label
+		ADDED from C:\Users\REX\AndroidStudioProjects\StudyBuddy4 realease\app\src\main\AndroidManifest.xml:10:9-41
+	android:supportsRtl
+		ADDED from C:\Users\REX\AndroidStudioProjects\StudyBuddy4 realease\app\src\main\AndroidManifest.xml:12:9-35
+	android:roundIcon
+		ADDED from C:\Users\REX\AndroidStudioProjects\StudyBuddy4 realease\app\src\main\AndroidManifest.xml:11:9-54
+	android:allowBackup
+		ADDED from C:\Users\REX\AndroidStudioProjects\StudyBuddy4 realease\app\src\main\AndroidManifest.xml:8:9-35
+	android:icon
+		ADDED from C:\Users\REX\AndroidStudioProjects\StudyBuddy4 realease\app\src\main\AndroidManifest.xml:9:9-39
+	android:theme
+		ADDED from C:\Users\REX\AndroidStudioProjects\StudyBuddy4 realease\app\src\main\AndroidManifest.xml:13:9-40
+activity#com.linegrillpresent.studybuddy.LoginActivity
+ADDED from C:\Users\REX\AndroidStudioProjects\StudyBuddy4 realease\app\src\main\AndroidManifest.xml:14:9-20:20
+	android:name
+		ADDED from C:\Users\REX\AndroidStudioProjects\StudyBuddy4 realease\app\src\main\AndroidManifest.xml:14:19-48
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from C:\Users\REX\AndroidStudioProjects\StudyBuddy4 realease\app\src\main\AndroidManifest.xml:15:13-19:29
+action#android.intent.action.MAIN
+ADDED from C:\Users\REX\AndroidStudioProjects\StudyBuddy4 realease\app\src\main\AndroidManifest.xml:16:17-69
+	android:name
+		ADDED from C:\Users\REX\AndroidStudioProjects\StudyBuddy4 realease\app\src\main\AndroidManifest.xml:16:25-66
+category#android.intent.category.LAUNCHER
+ADDED from C:\Users\REX\AndroidStudioProjects\StudyBuddy4 realease\app\src\main\AndroidManifest.xml:18:17-77
+	android:name
+		ADDED from C:\Users\REX\AndroidStudioProjects\StudyBuddy4 realease\app\src\main\AndroidManifest.xml:18:27-74
+activity#com.linegrillpresent.studybuddy.RegisterActivity
+ADDED from C:\Users\REX\AndroidStudioProjects\StudyBuddy4 realease\app\src\main\AndroidManifest.xml:21:9-54
+	android:name
+		ADDED from C:\Users\REX\AndroidStudioProjects\StudyBuddy4 realease\app\src\main\AndroidManifest.xml:21:19-51
+activity#com.linegrillpresent.studybuddy.RegisterNewGroup
+ADDED from C:\Users\REX\AndroidStudioProjects\StudyBuddy4 realease\app\src\main\AndroidManifest.xml:22:9-54
+	android:name
+		ADDED from C:\Users\REX\AndroidStudioProjects\StudyBuddy4 realease\app\src\main\AndroidManifest.xml:22:19-51
+activity#com.linegrillpresent.studybuddy.RegisterNewCourse
+ADDED from C:\Users\REX\AndroidStudioProjects\StudyBuddy4 realease\app\src\main\AndroidManifest.xml:23:9-55
+	android:name
+		ADDED from C:\Users\REX\AndroidStudioProjects\StudyBuddy4 realease\app\src\main\AndroidManifest.xml:23:19-52
+activity#com.linegrillpresent.studybuddy.ShowGroupInfoActivity
+ADDED from C:\Users\REX\AndroidStudioProjects\StudyBuddy4 realease\app\src\main\AndroidManifest.xml:24:9-26:14
+	android:name
+		ADDED from C:\Users\REX\AndroidStudioProjects\StudyBuddy4 realease\app\src\main\AndroidManifest.xml:25:13-50
+activity#com.linegrillpresent.studybuddy.WaitActivity
+ADDED from C:\Users\REX\AndroidStudioProjects\StudyBuddy4 realease\app\src\main\AndroidManifest.xml:27:9-50
+	android:name
+		ADDED from C:\Users\REX\AndroidStudioProjects\StudyBuddy4 realease\app\src\main\AndroidManifest.xml:27:19-47
+activity#com.linegrillpresent.studybuddy.ShowClassInfoActivity
+ADDED from C:\Users\REX\AndroidStudioProjects\StudyBuddy4 realease\app\src\main\AndroidManifest.xml:28:9-59
+	android:name
+		ADDED from C:\Users\REX\AndroidStudioProjects\StudyBuddy4 realease\app\src\main\AndroidManifest.xml:28:19-56
+activity#com.linegrillpresent.studybuddy.MycourseActivity
+ADDED from C:\Users\REX\AndroidStudioProjects\StudyBuddy4 realease\app\src\main\AndroidManifest.xml:29:9-54
+	android:name
+		ADDED from C:\Users\REX\AndroidStudioProjects\StudyBuddy4 realease\app\src\main\AndroidManifest.xml:29:19-51
+activity#com.linegrillpresent.studybuddy.MygroupActivity
+ADDED from C:\Users\REX\AndroidStudioProjects\StudyBuddy4 realease\app\src\main\AndroidManifest.xml:30:9-53
+	android:name
+		ADDED from C:\Users\REX\AndroidStudioProjects\StudyBuddy4 realease\app\src\main\AndroidManifest.xml:30:19-50
+activity#com.linegrillpresent.studybuddy.MyprofileActivity
+ADDED from C:\Users\REX\AndroidStudioProjects\StudyBuddy4 realease\app\src\main\AndroidManifest.xml:31:9-55
+	android:name
+		ADDED from C:\Users\REX\AndroidStudioProjects\StudyBuddy4 realease\app\src\main\AndroidManifest.xml:31:19-52
+activity#com.linegrillpresent.studybuddy.WelcomePage
+ADDED from C:\Users\REX\AndroidStudioProjects\StudyBuddy4 realease\app\src\main\AndroidManifest.xml:32:9-49
+	android:name
+		ADDED from C:\Users\REX\AndroidStudioProjects\StudyBuddy4 realease\app\src\main\AndroidManifest.xml:32:19-46
+activity#com.linegrillpresent.studybuddy.BookingActivity
+ADDED from C:\Users\REX\AndroidStudioProjects\StudyBuddy4 realease\app\src\main\AndroidManifest.xml:33:9-36:68
+	android:label
+		ADDED from C:\Users\REX\AndroidStudioProjects\StudyBuddy4 realease\app\src\main\AndroidManifest.xml:35:13-59
+	android:theme
+		ADDED from C:\Users\REX\AndroidStudioProjects\StudyBuddy4 realease\app\src\main\AndroidManifest.xml:36:13-56
+	android:name
+		ADDED from C:\Users\REX\AndroidStudioProjects\StudyBuddy4 realease\app\src\main\AndroidManifest.xml:34:13-44
+uses-sdk
+INJECTED from C:\Users\REX\AndroidStudioProjects\StudyBuddy4 realease\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+MERGED from [com.android.volley:volley:1.0.0] C:\Users\REX\.android\build-cache\008ec2c15a79f8a619b33aef729211e28baba899\output\AndroidManifest.xml:7:5-43
+MERGED from [com.android.support:design:25.3.1] C:\Users\REX\.android\build-cache\64347bfc019fc08f3ee52fc9fe1ac535c4ae2b9f\output\AndroidManifest.xml:21:5-23:62
+MERGED from [com.android.support:appcompat-v7:25.3.1] C:\Users\REX\.android\build-cache\b4e6401774938be5507c56e00ead6882ba7f9f1b\output\AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:animated-vector-drawable:25.3.1] C:\Users\REX\.android\build-cache\cd50d087a357490e4c2f29858da7670035fec026\output\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:25.3.1] C:\Users\REX\.android\build-cache\3d610e8d16b045587e5106ba33f83b046f98ef33\output\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:transition:25.3.1] C:\Users\REX\.android\build-cache\e9908f25c6442d9c33fcd854048560739fb9c8ed\output\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v4:25.3.1] C:\Users\REX\.android\build-cache\75797e1eb71ef776d1593fd2f56c6f534d255ac5\output\AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-fragment:25.3.1] C:\Users\REX\.android\build-cache\ee1b8ba5f76d0b784ddbf52f6c54db437930e9df\output\AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-media-compat:25.3.1] C:\Users\REX\.android\build-cache\ff45d754939b3c7814e02f04df6a8f0265605a14\output\AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-core-utils:25.3.1] C:\Users\REX\.android\build-cache\88ae4268d405260268bd7643b4ab3586c308f2cc\output\AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\REX\.android\build-cache\044d69a3ec017985e285c32c830f8bb5e7f254e6\output\AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support:recyclerview-v7:25.3.1] C:\Users\REX\.android\build-cache\811d2e5cfae22141dc0b4e07db7f698ea13c2124\output\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:support-core-ui:25.3.1] C:\Users\REX\.android\build-cache\98c56ab2d8f2663165e902052cbfd90d14050ae2\output\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-compat:25.3.1] C:\Users\REX\.android\build-cache\a00a634949e9bb38151c668154fae373b123977b\output\AndroidManifest.xml:21:5-23:58
+MERGED from [pl.droidsonroids.gif:android-gif-drawable:1.2.3] C:\Users\REX\.android\build-cache\ad8395e3f9a3ffdfce29937686d802107dfd21a6\output\AndroidManifest.xml:7:5-9:41
+	tools:overrideLibrary
+		ADDED from [com.android.support:design:25.3.1] C:\Users\REX\.android\build-cache\64347bfc019fc08f3ee52fc9fe1ac535c4ae2b9f\output\AndroidManifest.xml:23:9-59
+	android:targetSdkVersion
+		INJECTED from C:\Users\REX\AndroidStudioProjects\StudyBuddy4 realease\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\REX\AndroidStudioProjects\StudyBuddy4 realease\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from C:\Users\REX\AndroidStudioProjects\StudyBuddy4 realease\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\REX\AndroidStudioProjects\StudyBuddy4 realease\app\src\main\AndroidManifest.xml
+meta-data#android.support.VERSION
+ADDED from [com.android.support:design:25.3.1] C:\Users\REX\.android\build-cache\64347bfc019fc08f3ee52fc9fe1ac535c4ae2b9f\output\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:appcompat-v7:25.3.1] C:\Users\REX\.android\build-cache\b4e6401774938be5507c56e00ead6882ba7f9f1b\output\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:animated-vector-drawable:25.3.1] C:\Users\REX\.android\build-cache\cd50d087a357490e4c2f29858da7670035fec026\output\AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:support-vector-drawable:25.3.1] C:\Users\REX\.android\build-cache\3d610e8d16b045587e5106ba33f83b046f98ef33\output\AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:transition:25.3.1] C:\Users\REX\.android\build-cache\e9908f25c6442d9c33fcd854048560739fb9c8ed\output\AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:support-v4:25.3.1] C:\Users\REX\.android\build-cache\75797e1eb71ef776d1593fd2f56c6f534d255ac5\output\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-fragment:25.3.1] C:\Users\REX\.android\build-cache\ee1b8ba5f76d0b784ddbf52f6c54db437930e9df\output\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-media-compat:25.3.1] C:\Users\REX\.android\build-cache\ff45d754939b3c7814e02f04df6a8f0265605a14\output\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-core-utils:25.3.1] C:\Users\REX\.android\build-cache\88ae4268d405260268bd7643b4ab3586c308f2cc\output\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:recyclerview-v7:25.3.1] C:\Users\REX\.android\build-cache\811d2e5cfae22141dc0b4e07db7f698ea13c2124\output\AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:support-core-ui:25.3.1] C:\Users\REX\.android\build-cache\98c56ab2d8f2663165e902052cbfd90d14050ae2\output\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-compat:25.3.1] C:\Users\REX\.android\build-cache\a00a634949e9bb38151c668154fae373b123977b\output\AndroidManifest.xml:25:5-27:34
+	android:value
+		ADDED from [com.android.support:design:25.3.1] C:\Users\REX\.android\build-cache\64347bfc019fc08f3ee52fc9fe1ac535c4ae2b9f\output\AndroidManifest.xml:27:9-31
+	android:name
+		ADDED from [com.android.support:design:25.3.1] C:\Users\REX\.android\build-cache\64347bfc019fc08f3ee52fc9fe1ac535c4ae2b9f\output\AndroidManifest.xml:26:9-47

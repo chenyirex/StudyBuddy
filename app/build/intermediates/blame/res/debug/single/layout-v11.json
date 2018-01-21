@@ -1,0 +1,50 @@
+[
+    {
+        "merged": "C:\\Users\\miketang\\AndroidStudioProjects\\real_proj\\CPEN321\\app\\build\\intermediates\\res\\merged\\debug\\layout-v11\\notification_media_cancel_action.xml",
+        "source": "C:\\Users\\miketang\\.android\\build-cache\\59ca212fd6b4f515a98c5d39b5fe2219479ebd0b\\output\\res\\layout-v11\\notification_media_cancel_action.xml"
+    },
+    {
+        "merged": "C:\\Users\\REX\\AndroidStudioProjects\\StudyBuddy4 realease\\app\\build\\intermediates\\res\\merged\\debug\\layout-v11\\notification_media_cancel_action.xml",
+        "source": "C:\\Users\\REX\\.android\\build-cache\\b4e6401774938be5507c56e00ead6882ba7f9f1b\\output\\res\\layout-v11\\notification_media_cancel_action.xml"
+    },
+    {
+        "merged": "C:\\Users\\miketang\\AndroidStudioProjects\\real_proj\\CPEN321\\app\\build\\intermediates\\res\\merged\\debug\\layout-v11\\notification_template_big_media.xml",
+        "source": "C:\\Users\\miketang\\.android\\build-cache\\59ca212fd6b4f515a98c5d39b5fe2219479ebd0b\\output\\res\\layout-v11\\notification_template_big_media.xml"
+    },
+    {
+        "merged": "C:\\Users\\REX\\AndroidStudioProjects\\StudyBuddy4 realease\\app\\build\\intermediates\\res\\merged\\debug\\layout-v11\\notification_template_big_media.xml",
+        "source": "C:\\Users\\REX\\.android\\build-cache\\b4e6401774938be5507c56e00ead6882ba7f9f1b\\output\\res\\layout-v11\\notification_template_big_media.xml"
+    },
+    {
+        "merged": "C:\\Users\\REX\\AndroidStudioProjects\\StudyBuddy4 realease\\app\\build\\intermediates\\res\\merged\\debug\\layout-v11\\notification_media_action.xml",
+        "source": "C:\\Users\\REX\\.android\\build-cache\\b4e6401774938be5507c56e00ead6882ba7f9f1b\\output\\res\\layout-v11\\notification_media_action.xml"
+    },
+    {
+        "merged": "C:\\Users\\REX\\AndroidStudioProjects\\StudyBuddy4 realease\\app\\build\\intermediates\\res\\merged\\debug\\layout-v11\\notification_template_big_media_narrow.xml",
+        "source": "C:\\Users\\REX\\.android\\build-cache\\b4e6401774938be5507c56e00ead6882ba7f9f1b\\output\\res\\layout-v11\\notification_template_big_media_narrow.xml"
+    },
+    {
+        "merged": "C:\\Users\\miketang\\AndroidStudioProjects\\real_proj\\CPEN321\\app\\build\\intermediates\\res\\merged\\debug\\layout-v11\\notification_template_big_media_custom.xml",
+        "source": "C:\\Users\\miketang\\.android\\build-cache\\59ca212fd6b4f515a98c5d39b5fe2219479ebd0b\\output\\res\\layout-v11\\notification_template_big_media_custom.xml"
+    },
+    {
+        "merged": "C:\\Users\\miketang\\AndroidStudioProjects\\real_proj\\CPEN321\\app\\build\\intermediates\\res\\merged\\debug\\layout-v11\\notification_media_action.xml",
+        "source": "C:\\Users\\miketang\\.android\\build-cache\\59ca212fd6b4f515a98c5d39b5fe2219479ebd0b\\output\\res\\layout-v11\\notification_media_action.xml"
+    },
+    {
+        "merged": "C:\\Users\\miketang\\AndroidStudioProjects\\real_proj\\CPEN321\\app\\build\\intermediates\\res\\merged\\debug\\layout-v11\\notification_template_big_media_narrow_custom.xml",
+        "source": "C:\\Users\\miketang\\.android\\build-cache\\59ca212fd6b4f515a98c5d39b5fe2219479ebd0b\\output\\res\\layout-v11\\notification_template_big_media_narrow_custom.xml"
+    },
+    {
+        "merged": "C:\\Users\\REX\\AndroidStudioProjects\\StudyBuddy4 realease\\app\\build\\intermediates\\res\\merged\\debug\\layout-v11\\notification_template_big_media_narrow_custom.xml",
+        "source": "C:\\Users\\REX\\.android\\build-cache\\b4e6401774938be5507c56e00ead6882ba7f9f1b\\output\\res\\layout-v11\\notification_template_big_media_narrow_custom.xml"
+    },
+    {
+        "merged": "C:\\Users\\miketang\\AndroidStudioProjects\\real_proj\\CPEN321\\app\\build\\intermediates\\res\\merged\\debug\\layout-v11\\notification_template_big_media_narrow.xml",
+        "source": "C:\\Users\\miketang\\.android\\build-cache\\59ca212fd6b4f515a98c5d39b5fe2219479ebd0b\\output\\res\\layout-v11\\notification_template_big_media_narrow.xml"
+    },
+    {
+        "merged": "C:\\Users\\REX\\AndroidStudioProjects\\StudyBuddy4 realease\\app\\build\\intermediates\\res\\merged\\debug\\layout-v11\\notification_template_big_media_custom.xml",
+        "source": "C:\\Users\\REX\\.android\\build-cache\\b4e6401774938be5507c56e00ead6882ba7f9f1b\\output\\res\\layout-v11\\notification_template_big_media_custom.xml"
+    }
+]
